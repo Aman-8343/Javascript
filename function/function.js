@@ -62,11 +62,11 @@
 // console.log(val)
 // } )
 
-let arr=[1,2,3,4,5];
-arr.forEach((val ,idx,arr) =>{
-    console.log(val,idx,arr);
-}
-)
+// let arr=[1,2,3,4,5];
+// arr.forEach((val ,idx,arr) =>{
+//     console.log(val,idx,arr);
+// }
+// )
 
 
 // let arr=[1,2,3,4,5];
@@ -122,3 +122,11 @@ arr.forEach((val ,idx,arr) =>{
 //     return prev*res;
 // })
 // console.log("factorial of array=", factorial)
+
+
+
+
+
+let turn=true;
+()=>
+        a
