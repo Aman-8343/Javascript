@@ -47,3 +47,16 @@ class child extends parent{
 
 }
 let  obj=new child();
+
+class person{
+    constructor(){
+this.gender="male";
+    }
+}
+class devloper extends person{
+    constructor(branch){
+        super();
+        this.branch=branch;
+    }
+}
+let engobj=new devloper("software dev");
